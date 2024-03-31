@@ -29,4 +29,4 @@ return <OriginalComponent coordinates={coordinates} />
 }
 return NewComponent
 }
-export default withGeolocalization
+export default withGeolocalization;
